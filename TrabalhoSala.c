@@ -7,7 +7,7 @@
 //Daniel Negrao de Carvalho DRE 117252017
 //Vinicios Chan Guimaraes DRE 123594778
 //Matheus Goulart Lourenço DRE 124037054
-//Fabricia Nicomedes DRE 
+//Fabricia Nicomedes DRE 120169809
 
 
 typedef struct prod{ int codigo; char nome[50]; int quantidade; float preco;} 
